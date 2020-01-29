@@ -1,0 +1,35 @@
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.exe
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.deps.json
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.runtimeconfig.json
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.dll
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.pdb
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.Views.dll
+C:\Users\Student\source\repos\Music Video\Music Video\bin\Debug\netcoreapp3.1\Music Video.Views.pdb
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\staticwebassets\Music Video.StaticWebAssets.Manifest.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\staticwebassets\Music Video.StaticWebAssets.xml
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.RazorAssemblyInfo.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.RazorAssemblyInfo.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.AssemblyInfo.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.TagHelpers.input.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.TagHelpers.output.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.RazorCoreGenerate.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.RazorTargetAssemblyInfo.cs
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.Views.pdb
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.dll
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.pdb
+C:\Users\Student\source\repos\Music Video\Music Video\obj\Debug\netcoreapp3.1\Music Video.csproj.CopyComplete
