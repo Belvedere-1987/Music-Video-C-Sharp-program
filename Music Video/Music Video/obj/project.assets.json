@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\Music Video\\Music Video\\Music Video.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\Music_Video\\Music Video\\Music Video\\Music Video.csproj",
       "projectName": "Music Video",
-      "projectPath": "C:\\Users\\Student\\source\\repos\\Music Video\\Music Video\\Music Video.csproj",
+      "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\Music_Video\\Music Video\\Music Video\\Music Video.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\source\\repos\\Music Video\\Music Video\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\Music_Video\\Music Video\\Music Video\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,24 +48,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
